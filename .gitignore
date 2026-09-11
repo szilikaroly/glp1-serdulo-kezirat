@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+_bw_*.py
+*.tmp
+
+# A 300 dpi TIFF-ek szarmaztatott fajlok (30-64 MB darabja), a scriptekbol
+# egy paranccsal ujragenerálhatok - ezert nem kerulnek a git-tortenetbe:
+#   cd abrak && python abra1_mechanizmus.py ... && python mono_build.py
+*.tif

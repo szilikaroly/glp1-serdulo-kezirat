@@ -1,0 +1,70 @@
+{
+ "penznem": "millio Ft/fo, 3%/ev diszkontalva, tarsadalmi perspektiva",
+ "alapeset_ar_Ft_ho": 20000.0,
+ "kumulalt": {
+  "A": 5.29,
+  "B": 17.56,
+  "C": 16.52
+ },
+ "netto_alapeset": -1.04,
+ "kuszobar_Ft_ho_tarsadalmi": 23222,
+ "kuszobar_Ft_ho_csak_direkt": 16925,
+ "netto_5000Ft": -5.89,
+ "netto_35000Ft": 3.81,
+ "netto_5000Ft_csak_direkt": -3.86,
+ "netto_35000Ft_csak_direkt": 5.85,
+ "erzekenyseg": {
+  "Havi ár 5 000–35 000 Ft": [
+   -5.89,
+   3.81
+  ],
+  "Testsúlymediált hatás 40–80%": [
+   -3.42,
+   1.34
+  ],
+  "Fogyásfüggetlen hatás 0–30%": [
+   -1.19,
+   -0.89
+  ],
+  "Adherencia 50–100%": [
+   -0.58,
+   -1.04
+  ],
+  "Indirekt költségek be / ki": [
+   -1.04,
+   0.99
+  ],
+  "Diszkontráta 0–5%": [
+   -7.12,
+   0.29
+  ]
+ },
+ "elharitott_esemeny_1000_nore": 582,
+ "psa_megtakaritas_valoszinusege": {
+  "5000": 1.0,
+  "6250": 1.0,
+  "7500": 1.0,
+  "8750": 1.0,
+  "10000": 0.998,
+  "11250": 0.995,
+  "12500": 0.981,
+  "13750": 0.962,
+  "15000": 0.936,
+  "16250": 0.895,
+  "17500": 0.846,
+  "18750": 0.779,
+  "20000": 0.704,
+  "21250": 0.627,
+  "22500": 0.545,
+  "23750": 0.461,
+  "25000": 0.382,
+  "26250": 0.308,
+  "27500": 0.24,
+  "28750": 0.187,
+  "30000": 0.14,
+  "31250": 0.101,
+  "32500": 0.075,
+  "33750": 0.052,
+  "35000": 0.036
+ }
+}
