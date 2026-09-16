@@ -123,21 +123,25 @@ oldalszam_fejlecbe(doc)
 
 # ============================================================ 1. CIMOLDAL
 SZERZOK = [
-    ("Dézsi Csilla",        "1,2,3,4"),
-    ("Gulyás-Oldal Viktor", "1,2"),
-    ("Gálóczi Imre",        "1,2"),
-    ("Lábodi László",       "4"),
-    ("Marusin Ildikó",      "4"),
-    ("Szili Károly",        "1,2,3,4"),
-    ("Nagy Sándor",         "1,2"),
+    ("Dézsi Csilla dr.",        "1,2,3,4"),
+    ("Gulyás-Oldal Viktor dr.", "1,2"),
+    ("Gálóczi Imre",            "1,2"),
+    ("Lábodi László dr.",       "4"),
+    ("Marusin Ildikó dr.",      "4"),
+    ("Szili Károly dr.",        "1,2,3,4"),
+    ("Nagy Sándor dr.",         "1,2"),
 ]
 AFFILIACIOK = [
-    ("1", "Széchenyi István Egyetem, Szülészeti és Nőgyógyászati Tanszék, Győr"),
-    ("2", "Széchenyi István Egyetem, RGDI [a doktori iskola teljes hivatalos nevét és "
-          "helységnevét kérjük kiegészíteni]"),
+    ("1", "Széchenyi István Egyetem, Szülészeti és Nőgyógyászati Tanszék, Győr "
+          "(tanszékvezető: Nagy Sándor dr., PhD)"),
+    ("2", "Széchenyi István Egyetem, RGDI, [a doktori iskola teljes hivatalos nevét és "
+          "helységnevét kérjük kiegészíteni] (doktori iskola vezetője: Prof. Dr. habil. "
+          "Vasa [a teljes név kiegészítendő])"),
     ("3", "Szegedi Tudományegyetem, Szent-Györgyi Albert Orvostudományi Kar, "
-          "Szülészeti és Nőgyógyászati Klinika, Szeged"),
-    ("4", "S.O.S. 24 Kft. – 48. Családorvosi Rendelő, Szeged"),
+          "Szülészeti és Nőgyógyászati Klinika, Szeged "
+          "(igazgató: Prof. Dr. habil. Várbíró Szabolcs)"),
+    ("4", "S.O.S. 24 Kft. – 48. Családorvosi Rendelő, Szeged "
+          "(vezető: Szili Károly dr., PhD)"),
 ]
 LEVELEZO = "Szili Károly"
 
@@ -188,14 +192,14 @@ for _jel, _aff in AFFILIACIOK:          # NB: a ciklusvaltozo nem lehet 'szoveg'
     affiliacio_sor(doc, _jel, _aff)     # mert modulszinten felulirna a kezirat szoveget
 doc.add_paragraph()
 
-bekezdes(doc, f"**Kapcsolattartó (levelező) szerző:** {LEVELEZO} · szilikaroly@gmail.com · "
-              "levelezési cím: …………………………………… *(kitöltendő)*",
+bekezdes(doc, f"**Kapcsolattartó (levelező) szerző:** {LEVELEZO} dr. · "
+              "Széchenyi István Egyetem, 9026 Győr, Egyetem tér 1. · "
+              "szilikaroly@gmail.com",
          meret=11, sorkoz=1.2, igazit=WD_ALIGN_PARAGRAPH.CENTER)
 doc.add_paragraph()
-bekezdes(doc, "A szerzői útmutató szerint még kiegészítendő: (a) a szerzők neve után a „dr.” "
-              "megjelölés ott, ahol ez indokolt; (b) minden intézménynél az intézményvezető neve; "
-              "(c) a 2. affiliáció teljes hivatalos megnevezése és helységneve; "
-              "(d) a levelezési cím. A kísérőlevélhez az első szerző fényképét is csatolni kell.",
+bekezdes(doc, "Kiegészítendő: a 2. affiliáció teljes hivatalos megnevezése és helységneve, "
+              "valamint a doktori iskola vezetőjének teljes neve. "
+              "A kísérőlevélhez az első szerző fényképét is csatolni kell.",
          dolt=True, meret=10, sorkoz=1.2, igazit=WD_ALIGN_PARAGRAPH.CENTER)
 uj_oldal(doc)
 

@@ -27,7 +27,7 @@
 | 3.3 | A „longevity” szó magyarázat nélkül | **lezárva** | A fejezetcím magyarra váltott: „Élettartam-kockázat (longevity)”. |
 | 3.5 | Rövidítésjegyzék hiányzik | **lezárva** | Az 1. és a 4. ábra aláírása teljes rövidítés-feloldást tartalmaz; a táblázatoknál külön rövidítéssor. |
 | 3.6 | Szürkeárnyalatos ellenőrzés | **lezárva** | Mind a négy ábrából elkészült a szürkeárnyalatos változat, a 3. ábra vonalai vonaltípussal is elkülönítve. |
-| 5. | Címoldal kitöltendő | **nagyrészt** | A hét szerző és a négy affiliáció felső indexes hozzárendeléssel beírva; a levelező szerző megnevezve. Még hiányzik: a „dr.” megjelölések, az intézményvezetők neve, a 2. affiliáció teljes hivatalos neve és helységneve, a levelezési cím. |
+| 5. | Címoldal kitöltendő | **lezárva (egy adat hiányzik)** | A hét szerző „dr.” megjelöléssel, a négy affiliáció intézményvezetővel, a levelező szerző címmel és e-maillel. Egyedül a 2. affiliáció teljes hivatalos neve, helységneve és a doktori iskola vezetőjének teljes neve hiányzik. |
 
 ## B. A metodikai–élettani–biokémiai bírálat igényei
 
@@ -124,4 +124,8 @@ Levelező szerző: **Szili Károly**.
 
 Az 1. és a 3. affiliációnál a hivatalos intézménynevet és a helységnevet kiegészítettük (Széchenyi **István** Egyetem, Győr; SZTE **Szent-Györgyi Albert Orvostudományi Kar**, Szeged), mert az útmutató a pontos hivatalos megnevezést és a helységnevet is kéri. A 2. affiliációt („SZE: RGDI") nem oldottuk fel, mert a rövidítés több doktori iskolára is illeszkedhet — ezt a szerzőknek kell megadniuk.
 
-**A címoldalon még hiányzó, a szerzőktől érkező adatok:** a „dr." megjelölés azoknál a szerzőknél, ahol indokolt; minden intézménynél az intézményvezető neve; a 2. affiliáció teljes neve és helységneve; a levelezési cím. Ezt a kézirat a címoldalon dőlt betűs megjegyzésben is jelzi.
+**A címoldal elkészült.** A szerzői útmutató mintája szerint a „dr." a név után áll; Gálóczi Imre kivételével minden szerzőnél szerepel. Intézményvezetők: 1. Nagy Sándor dr., PhD (tanszékvezető) · 2. Prof. Dr. habil. Vasa *(teljes név kiegészítendő)* · 3. Prof. Dr. habil. Várbíró Szabolcs (igazgató) · 4. Szili Károly dr., PhD (vezető). Levelezési cím: Széchenyi István Egyetem, 9026 Győr, Egyetem tér 1.
+
+Két tipográfiai egységesítés: a „Ph.D."/„Ph.D" alakot mindenhol **PhD**-re, a „Dr. habil" alakot **Dr. habil.**-ra hoztuk, hogy a címoldal önmagán belül következetes legyen.
+
+**Egyetlen hiányzó adat maradt:** a 2. affiliáció teljes hivatalos megnevezése és helységneve, valamint a doktori iskola vezetőjének teljes neve. Ezt a kézirat a címoldalon dőlt betűs megjegyzésben is jelzi.

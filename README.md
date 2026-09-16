@@ -90,7 +90,7 @@ Az `abrak/abra3_megelozes_koltseg.py` egy szemléltető életút-modell 1000 obe
 - Törzsszöveg **3501 szó** (határ: 4000) · összefoglalás 327 szó (határ: 350) · **40 hivatkozás** (határ: 40)
 - 4 ábra, 5 táblázat, mind színes és szürkeárnyalatos változatban
 - Az `ids.json` 45 azonosítót tart nyilván; az öt jelenleg nem idézett tétel ott marad, hogy visszaemelésük egy sor legyen
-- Szerzők és affiliációk a címoldalon kitöltve (7 szerző, 4 intézmény)
-- Nyitott teendő a címoldalon: a „dr.” megjelölések, az intézményvezetők neve, a 2. affiliáció teljes hivatalos neve és helységneve, valamint a levelezési cím
+- Címoldal kész: 7 szerző „dr.” megjelöléssel, 4 affiliáció intézményvezetővel, levelező szerző címmel
+- Nyitott teendő a címoldalon: **a 2. affiliáció teljes hivatalos neve és helységneve, valamint a doktori iskola vezetőjének teljes neve**
 
 A bírálati pontok állapotát a `biralatok/3_javitasi_naplo.md` tartja nyilván.
