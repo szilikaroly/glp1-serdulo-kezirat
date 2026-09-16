@@ -5,8 +5,8 @@
 
 ## Összegzés
 
-- Ellenőrzött tételek: **45**
-- Mind a hét dimenzióban megfelelt: **45**
+- Ellenőrzött tételek: **40**
+- Mind a hét dimenzióban megfelelt: **40**
 - Szövegben idézett, de jegyzékből hiányzó: **nincs**
 - Jegyzékben szereplő, de nem idézett: **nincs**
 - A számozás az első előfordulás sorrendjét követi: **igen**
@@ -37,31 +37,26 @@ A hat dimenzió: D1 DOI feloldhatósága · D2 első szerző · D3 szerzőlista 
 | 18 | 10.1056/NEJMoa2407379 | 39258838 | OK | OK | OK | OK | OK | OK | OK |
 | 19 | 10.3389/fendo.2022.897776 | 36034458 | OK | OK | OK | OK | OK | OK | OK |
 | 20 | 10.1002/oby.24348 | 40717199 | OK | OK | OK | OK | OK | OK | OK |
-| 21 | 10.1097/MOP.0000000000001365 | 38774967 | OK | OK | OK | OK | OK | OK | OK |
-| 22 | 10.1016/j.rbmo.2019.04.017 | 31229399 | OK | OK | OK | OK | OK | OK | OK |
-| 23 | 10.1210/clinem/dgaa337 | 32490533 | OK | OK | OK | OK | OK | OK | OK |
-| 24 | 10.1210/clinem/dgab408 | 34097062 | OK | OK | OK | OK | OK | OK | OK |
-| 25 | 10.1210/clinem/dgaa692 | 32995892 | OK | OK | OK | OK | OK | OK | OK |
-| 26 | 10.1186/s13098-025-01730-8 | 40410888 | OK | OK | OK | OK | OK | OK | OK |
-| 27 | 10.3390/jcm12010067 | 36614868 | OK | OK | OK | OK | OK | OK | OK |
-| 28 | 10.1530/EJE-17-0776 | 29453202 | OK | OK | OK | OK | OK | OK | OK |
-| 29 | 10.1159/000353759 | 23899516 | OK | OK | OK | OK | OK | OK | OK |
-| 30 | 10.1186/s40360-026-01149-5 | 42163419 | OK | OK | OK | OK | OK | OK | OK |
-| 31 | 10.1007/s40520-025-03017-4 | 40325308 | OK | OK | OK | OK | OK | OK | OK |
-| 32 | 10.1371/journal.pmed.1002081 | 27529652 | OK | OK | OK | OK | OK | OK | OK |
-| 33 | 10.1097/AOG.0b013e3182110ea3 | 21422863 | OK | OK | OK | OK | OK | OK | OK |
-| 34 | 10.1093/jncics/pkab065 | 34476340 | OK | OK | OK | OK | OK | OK | OK |
-| 35 | 10.1056/NEJMoa2307563 | 37952131 | OK | OK | OK | OK | OK | OK | OK |
-| 36 | 10.1038/s41591-024-02996-7 | 38740993 | OK | OK | OK | OK | OK | OK | OK |
-| 37 | – | 21485717 | NINCS DOI | OK | OK | OK | OK | OK | OK |
-| 38 | 10.18632/oncotarget.14916 | 28159926 | OK | OK | OK | OK | OK | OK | OK |
-| 39 | 10.1007/s13679-025-00662-8 | 40920291 | OK | OK | OK | OK | OK | OK | OK |
-| 40 | 10.3390/biomedicines14071644 | 42512116 | OK | OK | OK | OK | OK | OK | OK |
-| 41 | 10.1007/s13679-025-00664-6 | 41085909 | OK | OK | OK | OK | OK | OK | OK |
-| 42 | 10.1111/dom.14725 | 35441470 | OK | OK | OK | OK | OK | OK | OK |
-| 43 | 10.1111/obr.13535 | 36437105 | OK | OK | OK | OK | OK | OK | OK |
-| 44 | 10.1001/jamanetworkopen.2023.36400 | 37824146 | OK | OK | OK | OK | OK | OK | OK |
-| 45 | 10.1007/s00228-024-03755-w | 39254692 | OK | OK | OK | OK | OK | OK | OK |
+| 21 | 10.1016/j.rbmo.2019.04.017 | 31229399 | OK | OK | OK | OK | OK | OK | OK |
+| 22 | 10.1210/clinem/dgab408 | 34097062 | OK | OK | OK | OK | OK | OK | OK |
+| 23 | 10.1210/clinem/dgaa692 | 32995892 | OK | OK | OK | OK | OK | OK | OK |
+| 24 | 10.1186/s13098-025-01730-8 | 40410888 | OK | OK | OK | OK | OK | OK | OK |
+| 25 | 10.3390/jcm12010067 | 36614868 | OK | OK | OK | OK | OK | OK | OK |
+| 26 | 10.1530/EJE-17-0776 | 29453202 | OK | OK | OK | OK | OK | OK | OK |
+| 27 | 10.1186/s40360-026-01149-5 | 42163419 | OK | OK | OK | OK | OK | OK | OK |
+| 28 | 10.1007/s40520-025-03017-4 | 40325308 | OK | OK | OK | OK | OK | OK | OK |
+| 29 | 10.1371/journal.pmed.1002081 | 27529652 | OK | OK | OK | OK | OK | OK | OK |
+| 30 | 10.1093/jncics/pkab065 | 34476340 | OK | OK | OK | OK | OK | OK | OK |
+| 31 | 10.1056/NEJMoa2307563 | 37952131 | OK | OK | OK | OK | OK | OK | OK |
+| 32 | 10.1038/s41591-024-02996-7 | 38740993 | OK | OK | OK | OK | OK | OK | OK |
+| 33 | – | 21485717 | NINCS DOI | OK | OK | OK | OK | OK | OK |
+| 34 | 10.18632/oncotarget.14916 | 28159926 | OK | OK | OK | OK | OK | OK | OK |
+| 35 | 10.1007/s13679-025-00662-8 | 40920291 | OK | OK | OK | OK | OK | OK | OK |
+| 36 | 10.3390/biomedicines14071644 | 42512116 | OK | OK | OK | OK | OK | OK | OK |
+| 37 | 10.1007/s13679-025-00664-6 | 41085909 | OK | OK | OK | OK | OK | OK | OK |
+| 38 | 10.1111/dom.14725 | 35441470 | OK | OK | OK | OK | OK | OK | OK |
+| 39 | 10.1111/obr.13535 | 36437105 | OK | OK | OK | OK | OK | OK | OK |
+| 40 | 10.1001/jamanetworkopen.2023.36400 | 37824146 | OK | OK | OK | OK | OK | OK | OK |
 
 ## A futások során feloldott jelzések
 

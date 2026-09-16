@@ -67,7 +67,7 @@ Minden hivatkozást hat dimenzióban vet össze a Crossref és a PubMed rekordj�
 - **online vs. nyomtatott évszám** (a Crossref `issued` mezője gyakran az online dátum)
 - kiadói kötetformátum-furcsaságok (`"Volume 19"`)
 
-**Jelenlegi állapot: 45/45 tétel megfelelt, cit-ref kereszt-ellenőrzés tiszta.**
+**Jelenlegi állapot: 40/40 tétel megfelelt, cit-ref kereszt-ellenőrzés tiszta.**
 
 ---
 
@@ -87,8 +87,9 @@ Az `abrak/abra3_megelozes_koltseg.py` egy szemléltető életút-modell 1000 obe
 
 ## Állapot
 
-- Törzsszöveg **3489 szó** (határ: 3500) · összefoglalás 328 szó (határ: 350) · **45 hivatkozás** (határ: 80)
+- Törzsszöveg **3501 szó** (határ: 4000) · összefoglalás 327 szó (határ: 350) · **40 hivatkozás** (határ: 40)
 - 4 ábra, 5 táblázat, mind színes és szürkeárnyalatos változatban
+- Az `ids.json` 45 azonosítót tart nyilván; az öt jelenleg nem idézett tétel ott marad, hogy visszaemelésük egy sor legyen
 - Nyitott teendő: a címoldalon a munkahely és a levelezési cím kitöltése
 
 A bírálati pontok állapotát a `biralatok/3_javitasi_naplo.md` tartja nyilván.

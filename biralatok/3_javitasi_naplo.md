@@ -82,3 +82,26 @@
 5. **Az azonosító-térkép származtatottá tétele.** A 6D ellenőrző DOI/PMID-térképe korábban kézzel készült, és a hivatkozásszám változásakor elavult. Most az `ids.json` az egyetlen forrás, és a sorszámozó generálja belőle a térképet — így nem tud többé elcsúszni.
 
 **Változatlanul nyitva:** a címoldalon a munkahely és a levelezési cím (ezeket nem ismerjük), valamint a modell szerkezeti bizonytalansága, amit a Korlátok kimond.
+
+
+---
+
+## F. Harmadik kör — a szerkesztőségi keretek változása
+
+A keretek módosultak: **szóhatár 3500 → 4000**, **hivatkozási keret 80 → 40**.
+
+**Szerkezet.** A „Nyitott kérdések" és a „Korlátok" fejezet **egyetlen, „Korlátok és nyitott kérdések" szakasszá** vonódott össze (238 szó a korábbi 93 + 77 helyett). Az összevonás nem egyszerű egymás mellé illesztés: a szakasz most azt a logikát követi, hogy **melyik korlát szüntethető meg és mivel** — minden hiányhoz megnevezi azt a vizsgálatot vagy adatforrást, amely feloldaná. Bekerült egy eddig ki nem mondott korlát is: a modell magyar validálásához hazai ellátási költség- és távollét-adatokra volna szükség, amelyek publikált formában nem álltak rendelkezésre.
+
+**Öt hivatkozás elhagyva**, a legkevésbé teherbírók:
+
+| Elhagyott | Miért |
+|---|---|
+| Bensignor 2024 (narratív áttekintés) | az állítás az elsődleges vizsgálatokból közvetlenül is levezethető |
+| Verkauskiene 2013 (SGA-pubertás) | a rigorózus bírálat 2.6 pontja óta a közvetlen BMI–menarche bizonyíték kiváltja az analógiát |
+| Xing 2020 (hálózati metaanalízis) | harmadik hálózati metaanalízis ugyanarra az androgénállításra |
+| Win 2011 (Lynch-hordozók) | túl szűk populáció egy általános BMI–endometriumcarcinoma állításhoz |
+| Asiabar 2024 (költséghatékonysági áttekintés) | átfed a Mital 2023 elemzéssel |
+
+Mindegyik elhagyása a hozzá tartozó tagmondat törlésével vagy átfogalmazásával járt, nem a hivatkozás néma kivételével — így egyetlen állítás sem maradt forrás nélkül.
+
+**Ellenőrzés a harmadik kör után:** 40/40 tétel megfelelt mind a hét dimenzióban; a szövegben 81 hivatkozási hely, 40 idézett egyedi tétel, nincs holt hivatkozás és nincs jegyzékből hiányzó idézet. Törzsszöveg **3501 szó** (határ 4000), így mintegy 500 szó tartalék maradt.

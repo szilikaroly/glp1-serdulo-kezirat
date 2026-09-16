@@ -1,5 +1,5 @@
 {
- "hivatkozasok_szama": 45,
+ "hivatkozasok_szama": 40,
  "szovegben_idezett": [
   1,
   2,
@@ -40,12 +40,7 @@
   37,
   38,
   39,
-  40,
-  41,
-  42,
-  43,
-  44,
-  45
+  40
  ],
  "jegyzekben_szereplo": [
   1,
@@ -87,12 +82,7 @@
   37,
   38,
   39,
-  40,
-  41,
-  42,
-  43,
-  44,
-  45
+  40
  ],
  "idezett_de_nincs_jegyzekben": [],
  "jegyzekben_van_de_nincs_idezve": [],
@@ -136,12 +126,7 @@
   37,
   38,
   39,
-  40,
-  41,
-  42,
-  43,
-  44,
-  45
+  40
  ],
  "sorrend_helyes": true,
  "tetelek": [
@@ -567,27 +552,6 @@
   },
   {
    "n": 21,
-   "doi": "10.1097/MOP.0000000000001365",
-   "pmid": "38774967",
-   "D1_doi": "OK",
-   "first_author": "Bensignor",
-   "D2_first": "OK",
-   "n_authors": 3,
-   "D3_authors": "OK",
-   "journal": "Curr Opin Pediatr",
-   "D4_journal": "OK",
-   "volume": "36",
-   "D5_volume": "OK",
-   "pages_src": "449-455",
-   "D6_pages": "OK",
-   "year": 2024,
-   "year_kandidatusok": [
-    2024
-   ],
-   "D7_year": "OK"
-  },
-  {
-   "n": 22,
    "doi": "10.1016/j.rbmo.2019.04.017",
    "pmid": "31229399",
    "D1_doi": "OK",
@@ -608,28 +572,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 23,
-   "doi": "10.1210/clinem/dgaa337",
-   "pmid": "32490533",
-   "D1_doi": "OK",
-   "first_author": "Xing",
-   "D2_first": "OK",
-   "n_authors": 3,
-   "D3_authors": "OK",
-   "journal": "J Clin Endocrinol Metab",
-   "D4_journal": "OK",
-   "volume": "105",
-   "D5_volume": "OK",
-   "pages_src": "2950-2963",
-   "D6_pages": "OK",
-   "year": 2020,
-   "year_kandidatusok": [
-    2020
-   ],
-   "D7_year": "OK"
-  },
-  {
-   "n": 24,
+   "n": 22,
    "doi": "10.1210/clinem/dgab408",
    "pmid": "34097062",
    "D1_doi": "OK",
@@ -650,7 +593,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 25,
+   "n": 23,
    "doi": "10.1210/clinem/dgaa692",
    "pmid": "32995892",
    "D1_doi": "OK",
@@ -672,7 +615,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 26,
+   "n": 24,
    "doi": "10.1186/s13098-025-01730-8",
    "pmid": "40410888",
    "D1_doi": "OK",
@@ -693,7 +636,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 27,
+   "n": 25,
    "doi": "10.3390/jcm12010067",
    "pmid": "36614868",
    "D1_doi": "OK",
@@ -714,7 +657,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 28,
+   "n": 26,
    "doi": "10.1530/EJE-17-0776",
    "pmid": "29453202",
    "D1_doi": "OK",
@@ -735,28 +678,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 29,
-   "doi": "10.1159/000353759",
-   "pmid": "23899516",
-   "D1_doi": "OK",
-   "first_author": "Verkauskiene",
-   "D2_first": "OK",
-   "n_authors": 3,
-   "D3_authors": "OK",
-   "journal": "Horm Res Paediatr",
-   "D4_journal": "OK",
-   "volume": "80",
-   "D5_volume": "OK",
-   "pages_src": "69-77",
-   "D6_pages": "OK",
-   "year": 2013,
-   "year_kandidatusok": [
-    2013
-   ],
-   "D7_year": "OK"
-  },
-  {
-   "n": 30,
+   "n": 27,
    "doi": "10.1186/s40360-026-01149-5",
    "pmid": "42163419",
    "D1_doi": "OK",
@@ -777,7 +699,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 31,
+   "n": 28,
    "doi": "10.1007/s40520-025-03017-4",
    "pmid": "40325308",
    "D1_doi": "OK",
@@ -798,7 +720,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 32,
+   "n": 29,
    "doi": "10.1371/journal.pmed.1002081",
    "pmid": "27529652",
    "D1_doi": "OK",
@@ -819,28 +741,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 33,
-   "doi": "10.1097/AOG.0b013e3182110ea3",
-   "pmid": "21422863",
-   "D1_doi": "OK",
-   "first_author": "Win",
-   "D2_first": "OK",
-   "n_authors": 19,
-   "D3_authors": "OK",
-   "journal": "Obstet Gynecol",
-   "D4_journal": "OK",
-   "volume": "117",
-   "D5_volume": "OK",
-   "pages_src": "899-905",
-   "D6_pages": "OK",
-   "year": 2011,
-   "year_kandidatusok": [
-    2011
-   ],
-   "D7_year": "OK"
-  },
-  {
-   "n": 34,
+   "n": 30,
    "doi": "10.1093/jncics/pkab065",
    "pmid": "34476340",
    "D1_doi": "OK",
@@ -861,7 +762,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 35,
+   "n": 31,
    "doi": "10.1056/NEJMoa2307563",
    "pmid": "37952131",
    "D1_doi": "OK",
@@ -882,7 +783,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 36,
+   "n": 32,
    "doi": "10.1038/s41591-024-02996-7",
    "pmid": "38740993",
    "D1_doi": "OK",
@@ -903,7 +804,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 37,
+   "n": 33,
    "doi": null,
    "pmid": "21485717",
    "D1_doi": "NINCS DOI",
@@ -924,7 +825,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 38,
+   "n": 34,
    "doi": "10.18632/oncotarget.14916",
    "pmid": "28159926",
    "D1_doi": "OK",
@@ -945,7 +846,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 39,
+   "n": 35,
    "doi": "10.1007/s13679-025-00662-8",
    "pmid": "40920291",
    "D1_doi": "OK",
@@ -966,7 +867,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 40,
+   "n": 36,
    "doi": "10.3390/biomedicines14071644",
    "pmid": "42512116",
    "D1_doi": "OK",
@@ -987,7 +888,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 41,
+   "n": 37,
    "doi": "10.1007/s13679-025-00664-6",
    "pmid": "41085909",
    "D1_doi": "OK",
@@ -1008,7 +909,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 42,
+   "n": 38,
    "doi": "10.1111/dom.14725",
    "pmid": "35441470",
    "D1_doi": "OK",
@@ -1029,7 +930,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 43,
+   "n": 39,
    "doi": "10.1111/obr.13535",
    "pmid": "36437105",
    "D1_doi": "OK",
@@ -1051,7 +952,7 @@
    "D7_year": "OK"
   },
   {
-   "n": 44,
+   "n": 40,
    "doi": "10.1001/jamanetworkopen.2023.36400",
    "pmid": "37824146",
    "D1_doi": "OK",
@@ -1068,27 +969,6 @@
    "year": 2023,
    "year_kandidatusok": [
     2023
-   ],
-   "D7_year": "OK"
-  },
-  {
-   "n": 45,
-   "doi": "10.1007/s00228-024-03755-w",
-   "pmid": "39254692",
-   "D1_doi": "OK",
-   "first_author": "Asiabar",
-   "D2_first": "OK",
-   "n_authors": 8,
-   "D3_authors": "OK",
-   "journal": "Eur J Clin Pharmacol",
-   "D4_journal": "OK",
-   "volume": "80",
-   "D5_volume": "OK",
-   "pages_src": "1857-1870",
-   "D6_pages": "OK",
-   "year": 2024,
-   "year_kandidatusok": [
-    2024
    ],
    "D7_year": "OK"
   }
