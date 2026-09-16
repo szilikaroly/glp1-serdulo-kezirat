@@ -16,10 +16,11 @@ Ez a repó nem csak a kéziratot tartalmazza, hanem az előállításának telje
 | `kezirat_vege_tablazatok.md` | A táblázatok és ábraaláírások forrása |
 | `kezirat_promptok.md` | Képpromptok: a négy ábra részletes leírása + illusztratív képek |
 | `refs.json` | Kulcs → hivatkozás szövege |
-| `ids.json` | Kulcs → DOI/PMID (**egyetlen forrás**, ebből származik minden azonosító-térkép) |
+| `ids.json` | Kulcs → DOI/PMID (**egyetlen forrás**, ebből származik minden azonosító-térkép; mindkét kézirat ezt használja) |
 | `abrak/` | Az ábrákat generáló scriptek + a kimenetek (600 dpi PNG, 300 dpi TIFF, színes és szürkeárnyalatos) |
 | `ellenorzes/` | 6D bibliográfiai validátor és a jelentései |
 | `biralatok/` | Rigorózus bírálat, metodikai–élettani–biokémiai bírálat, javítási napló |
+| `oh_valtozat/` | **Orvosi Hetilap változat** — tágabb keret, hazai adatokkal, 54 hivatkozással |
 
 ---
 

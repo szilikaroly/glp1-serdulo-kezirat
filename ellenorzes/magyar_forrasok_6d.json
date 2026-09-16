@@ -1,0 +1,258 @@
+{
+ "jeloltek": {
+  "erdei": [
+   "Erdei G, Bakacs M, Illés É, et al. Substantial variation across geographic regions in the obesity prevalence among 6-8 years old Hungarian children (COSI Hungary 2016). BMC Public Health 2018;18(1):611.",
+   "10.1186/s12889-018-5530-6",
+   "29743055"
+  ],
+  "kovacsva": [
+   "Kovacs VA, Bakacs M, Kaposvari C, et al. Weight Status of 7-Year-Old Hungarian Children between 2010 and 2016 Using Different Classifications (COSI Hungary). Obes Facts 2018;11(3):195–205.",
+   "10.1159/000487327",
+   "29788023"
+  ],
+  "spinelli": [
+   "Spinelli A, Buoncristiano M, Kovacs VA, et al. Prevalence of Severe Obesity among Primary School Children in 21 European Countries. Obes Facts 2019;12(2):244–258.",
+   "10.1159/000500436",
+   "31030201"
+  ],
+  "jakab": [
+   "Jakab AE, Hidvégi EV, Illyés M, et al. [Prevalence of hypertension in overweight and obese Hungarian children and adolescents]. Orv Hetil 2020;161(4):151–160.",
+   "10.1556/650.2020.31543",
+   "31955583"
+  ],
+  "sagodi": [
+   "Ságodi L, Fehér V, Kiss-Tóth E, et al. [Metabolic complications of obesity during adolescence, particularly regarding elevated uric acid levels]. Orv Hetil 2015;156(22):888–95.",
+   "10.1556/650.2015.30140",
+   "26004548"
+  ],
+  "tobisch": [
+   "Tobisch B, Blatniczky L, Schusterova I, et al. [Insulin resistance and its effects in children and adolescents]. Orv Hetil 2021;162(11):403–412.",
+   "10.1556/650.2021.32048",
+   "33714938"
+  ],
+  "hidvegi": [
+   "Hidvégi EV, Jakab A, Cziráki A, et al. [Normal values of peripheral (brachial) blood pressure measured in 14 062 Hungarian healthy children and adolescents with normal body mass index]. Orv Hetil 2024;165(28):1086–1100.",
+   "10.1556/650.2024.33069",
+   "39008368"
+  ],
+  "matkovics": [
+   "Matkovics L, Czeglédi E. [The role of the school health care system in the prevention of childhood obesity - lessons of a pilot study]. Orv Hetil 2022;163(38):1499–1505.",
+   "10.1556/650.2022.32569",
+   "36121722"
+  ],
+  "sarga": [
+   "Sárga D, Biró L, Kiss-Tóth B, et al. [Nutrient intake and nutritional status of 4-10-year-old Hungarian children]. Orv Hetil 2023;164(14):533–540.",
+   "10.1556/650.2023.32713",
+   "37031445"
+  ],
+  "piko": [
+   "Pikó B, Kiss H, Gráczer A. [Relationship of young women's body appreciation with eating disorders and psychological variables]. Orv Hetil 2022;163(27):1082–1088.",
+   "10.1556/650.2022.32518",
+   "35895466"
+  ],
+  "winklergip": [
+   "Winkler G, Kis JT, Schandl L. [The \"other\" incretin - the therapeutic rediscovery of the glucose-dependent insulinotropic polypeptide]. Orv Hetil 2023;164(6):210–218.",
+   "10.1556/650.2023.32710",
+   "36774634"
+  ],
+  "winklertri": [
+   "Winkler G, Kis JT, Arapovicsné Kiss K, et al. [From GLP1 receptor agonists to triple hormone receptor activation supplemented with glucagon receptor agonism]. Orv Hetil 2023;164(42):1656–1664.",
+   "10.1556/650.2023.32894",
+   "37865924"
+  ],
+  "horvathosa": [
+   "Horváth G, Berner SC, Bardóczi AB, et al. [The role of obesity and weight reduction in obstructive sleep apnea]. Orv Hetil 2026;167(26):1011–1017.",
+   "10.1556/650.2026.33589",
+   "42365594"
+  ],
+  "katona": [
+   "Katona ZB, Takács J, Gyömörei T, et al. [Assessing physical activity and subjective health status among Hungarian secondary school students during the distance learning period]. Orv Hetil 2022;163(17):655–662.",
+   "10.1556/650.2022.32481",
+   "35462350"
+  ]
+ },
+ "eredmeny": [
+  {
+   "kulcs": "erdei",
+   "doi": "10.1186/s12889-018-5530-6",
+   "pmid": "29743055",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "eng"
+  },
+  {
+   "kulcs": "kovacsva",
+   "doi": "10.1159/000487327",
+   "pmid": "29788023",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "eng"
+  },
+  {
+   "kulcs": "spinelli",
+   "doi": "10.1159/000500436",
+   "pmid": "31030201",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "eng"
+  },
+  {
+   "kulcs": "jakab",
+   "doi": "10.1556/650.2020.31543",
+   "pmid": "31955583",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  },
+  {
+   "kulcs": "sagodi",
+   "doi": "10.1556/650.2015.30140",
+   "pmid": "26004548",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  },
+  {
+   "kulcs": "tobisch",
+   "doi": "10.1556/650.2021.32048",
+   "pmid": "33714938",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  },
+  {
+   "kulcs": "hidvegi",
+   "doi": "10.1556/650.2024.33069",
+   "pmid": "39008368",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  },
+  {
+   "kulcs": "matkovics",
+   "doi": "10.1556/650.2022.32569",
+   "pmid": "36121722",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  },
+  {
+   "kulcs": "sarga",
+   "doi": "10.1556/650.2023.32713",
+   "pmid": "37031445",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  },
+  {
+   "kulcs": "piko",
+   "doi": "10.1556/650.2022.32518",
+   "pmid": "35895466",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  },
+  {
+   "kulcs": "winklergip",
+   "doi": "10.1556/650.2023.32710",
+   "pmid": "36774634",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  },
+  {
+   "kulcs": "winklertri",
+   "doi": "10.1556/650.2023.32894",
+   "pmid": "37865924",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  },
+  {
+   "kulcs": "horvathosa",
+   "doi": "10.1556/650.2026.33589",
+   "pmid": "42365594",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  },
+  {
+   "kulcs": "katona",
+   "doi": "10.1556/650.2022.32481",
+   "pmid": "35462350",
+   "D1_doi": "OK",
+   "D2_first": "OK",
+   "D3_authors": "OK",
+   "D4_journal": "OK",
+   "D5_volume": "OK",
+   "D6_pages": "OK",
+   "D7_year": "OK",
+   "nyelv": "hun"
+  }
+ ]
+}
