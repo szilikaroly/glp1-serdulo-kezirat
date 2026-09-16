@@ -134,9 +134,8 @@ SZERZOK = [
 AFFILIACIOK = [
     ("1", "Széchenyi István Egyetem, Szülészeti és Nőgyógyászati Tanszék, Győr "
           "(tanszékvezető: Nagy Sándor dr., PhD)"),
-    ("2", "Széchenyi István Egyetem, RGDI, [a doktori iskola teljes hivatalos nevét és "
-          "helységnevét kérjük kiegészíteni] (doktori iskola vezetője: Prof. Dr. habil. "
-          "Vasa [a teljes név kiegészítendő])"),
+    ("2", "Széchenyi István Egyetem, Regionális- és Gazdaságtudományi Doktori Iskola "
+          "(RGDI), Győr (doktori iskola vezetője: Prof. Dr. habil. Vasa László)"),
     ("3", "Szegedi Tudományegyetem, Szent-Györgyi Albert Orvostudományi Kar, "
           "Szülészeti és Nőgyógyászati Klinika, Szeged "
           "(igazgató: Prof. Dr. habil. Várbíró Szabolcs)"),
@@ -197,9 +196,8 @@ bekezdes(doc, f"**Kapcsolattartó (levelező) szerző:** {LEVELEZO} dr. · "
               "szilikaroly@gmail.com",
          meret=11, sorkoz=1.2, igazit=WD_ALIGN_PARAGRAPH.CENTER)
 doc.add_paragraph()
-bekezdes(doc, "Kiegészítendő: a 2. affiliáció teljes hivatalos megnevezése és helységneve, "
-              "valamint a doktori iskola vezetőjének teljes neve. "
-              "A kísérőlevélhez az első szerző fényképét is csatolni kell.",
+bekezdes(doc, "Beküldés előtt kérjük ellenőrizni a 2. affiliáció doktori iskolájának hivatalos "
+              "megnevezését. A kísérőlevélhez az első szerző fényképét is csatolni kell.",
          dolt=True, meret=10, sorkoz=1.2, igazit=WD_ALIGN_PARAGRAPH.CENTER)
 uj_oldal(doc)
 

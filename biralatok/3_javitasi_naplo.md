@@ -27,7 +27,7 @@
 | 3.3 | A „longevity” szó magyarázat nélkül | **lezárva** | A fejezetcím magyarra váltott: „Élettartam-kockázat (longevity)”. |
 | 3.5 | Rövidítésjegyzék hiányzik | **lezárva** | Az 1. és a 4. ábra aláírása teljes rövidítés-feloldást tartalmaz; a táblázatoknál külön rövidítéssor. |
 | 3.6 | Szürkeárnyalatos ellenőrzés | **lezárva** | Mind a négy ábrából elkészült a szürkeárnyalatos változat, a 3. ábra vonalai vonaltípussal is elkülönítve. |
-| 5. | Címoldal kitöltendő | **lezárva (egy adat hiányzik)** | A hét szerző „dr.” megjelöléssel, a négy affiliáció intézményvezetővel, a levelező szerző címmel és e-maillel. Egyedül a 2. affiliáció teljes hivatalos neve, helységneve és a doktori iskola vezetőjének teljes neve hiányzik. |
+| 5. | Címoldal kitöltendő | **lezárva** | A hét szerző „dr.” megjelöléssel, mind a négy affiliáció intézményvezetővel és helységnévvel, a levelező szerző (Szili Károly dr.) címmel és e-maillel. |
 
 ## B. A metodikai–élettani–biokémiai bírálat igényei
 
@@ -116,7 +116,7 @@ A címoldal elkészült. Hét szerző, felső indexes intézmény-hozzárendelé
 **Dézsi Csilla**^1,2,3,4^ · **Gulyás-Oldal Viktor**^1,2^ · **Gálóczi Imre**^1,2^ · **Lábodi László**^4^ · **Marusin Ildikó**^4^ · **Szili Károly**^1,2,3,4^ · **Nagy Sándor**^1,2^
 
 1. Széchenyi István Egyetem, Szülészeti és Nőgyógyászati Tanszék, Győr
-2. Széchenyi István Egyetem, RGDI — *a teljes hivatalos név és a helységnév kiegészítendő*
+2. Széchenyi István Egyetem, Regionális- és Gazdaságtudományi Doktori Iskola (RGDI), Győr
 3. Szegedi Tudományegyetem, Szent-Györgyi Albert Orvostudományi Kar, Szülészeti és Nőgyógyászati Klinika, Szeged
 4. S.O.S. 24 Kft. – 48. Családorvosi Rendelő, Szeged
 
@@ -124,8 +124,8 @@ Levelező szerző: **Szili Károly**.
 
 Az 1. és a 3. affiliációnál a hivatalos intézménynevet és a helységnevet kiegészítettük (Széchenyi **István** Egyetem, Győr; SZTE **Szent-Györgyi Albert Orvostudományi Kar**, Szeged), mert az útmutató a pontos hivatalos megnevezést és a helységnevet is kéri. A 2. affiliációt („SZE: RGDI") nem oldottuk fel, mert a rövidítés több doktori iskolára is illeszkedhet — ezt a szerzőknek kell megadniuk.
 
-**A címoldal elkészült.** A szerzői útmutató mintája szerint a „dr." a név után áll; Gálóczi Imre kivételével minden szerzőnél szerepel. Intézményvezetők: 1. Nagy Sándor dr., PhD (tanszékvezető) · 2. Prof. Dr. habil. Vasa *(teljes név kiegészítendő)* · 3. Prof. Dr. habil. Várbíró Szabolcs (igazgató) · 4. Szili Károly dr., PhD (vezető). Levelezési cím: Széchenyi István Egyetem, 9026 Győr, Egyetem tér 1.
+**A címoldal elkészült.** A szerzői útmutató mintája szerint a „dr." a név után áll; Gálóczi Imre kivételével minden szerzőnél szerepel. Intézményvezetők: 1. Nagy Sándor dr., PhD (tanszékvezető) · 2. Prof. Dr. habil. Vasa László · 3. Prof. Dr. habil. Várbíró Szabolcs (igazgató) · 4. Szili Károly dr., PhD (vezető). Levelezési cím: Széchenyi István Egyetem, 9026 Győr, Egyetem tér 1.
 
 Két tipográfiai egységesítés: a „Ph.D."/„Ph.D" alakot mindenhol **PhD**-re, a „Dr. habil" alakot **Dr. habil.**-ra hoztuk, hogy a címoldal önmagán belül következetes legyen.
 
-**Egyetlen hiányzó adat maradt:** a 2. affiliáció teljes hivatalos megnevezése és helységneve, valamint a doktori iskola vezetőjének teljes neve. Ezt a kézirat a címoldalon dőlt betűs megjegyzésben is jelzi.
+A 2. affiliációnál az „RGDI" rövidítést **Regionális- és Gazdaságtudományi Doktori Iskola** alakban oldottuk fel, Győr helységnévvel — ez következik abból, hogy ugyanannak az egyetemnek a doktori iskolájáról van szó, és a megadott iskolavezető is ehhez illeszkedik. Mivel ez a kézirat egyetlen olyan adata, amely levezetésen és nem közlésen alapul, a címoldal dőlt betűs sora kéri a beküldés előtti ellenőrzését.

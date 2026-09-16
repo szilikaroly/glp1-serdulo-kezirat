@@ -91,6 +91,6 @@ Az `abrak/abra3_megelozes_koltseg.py` egy szemléltető életút-modell 1000 obe
 - 4 ábra, 5 táblázat, mind színes és szürkeárnyalatos változatban
 - Az `ids.json` 45 azonosítót tart nyilván; az öt jelenleg nem idézett tétel ott marad, hogy visszaemelésük egy sor legyen
 - Címoldal kész: 7 szerző „dr.” megjelöléssel, 4 affiliáció intézményvezetővel, levelező szerző címmel
-- Nyitott teendő a címoldalon: **a 2. affiliáció teljes hivatalos neve és helységneve, valamint a doktori iskola vezetőjének teljes neve**
+- Címoldal kész; beküldés előtt egyetlen tétel ellenőrzendő: a 2. affiliáció doktori iskolájának hivatalos megnevezése (az „RGDI” rövidítés feloldása levezetett, nem közölt adat)
 
 A bírálati pontok állapotát a `biralatok/3_javitasi_naplo.md` tartja nyilván.
