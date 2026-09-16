@@ -142,7 +142,7 @@ A gyermekkori túlsúly és elhízás évi 237,55 USD/fő többlet-egészségüg
 
 ## ÉRDEKELTSÉGEK, TÁMOGATÁSOK
 
-A szerző(k)nek nincsenek érdekeltségei. A közlemény elkészítése külső támogatásban nem részesült.
+A szerzőknek nincsenek érdekeltségei. A közlemény elkészítése külső támogatásban nem részesült.
 
 ---
 

@@ -27,7 +27,7 @@
 | 3.3 | A „longevity” szó magyarázat nélkül | **lezárva** | A fejezetcím magyarra váltott: „Élettartam-kockázat (longevity)”. |
 | 3.5 | Rövidítésjegyzék hiányzik | **lezárva** | Az 1. és a 4. ábra aláírása teljes rövidítés-feloldást tartalmaz; a táblázatoknál külön rövidítéssor. |
 | 3.6 | Szürkeárnyalatos ellenőrzés | **lezárva** | Mind a négy ábrából elkészült a szürkeárnyalatos változat, a 3. ábra vonalai vonaltípussal is elkülönítve. |
-| 5. | Címoldal kitöltendő | **részben** | A szerző neve és e-mail címe beírva; a munkahely és a levelezési cím továbbra is a szerzőre vár (ezeket nem ismerjük). |
+| 5. | Címoldal kitöltendő | **nagyrészt** | A hét szerző és a négy affiliáció felső indexes hozzárendeléssel beírva; a levelező szerző megnevezve. Még hiányzik: a „dr.” megjelölések, az intézményvezetők neve, a 2. affiliáció teljes hivatalos neve és helységneve, a levelezési cím. |
 
 ## B. A metodikai–élettani–biokémiai bírálat igényei
 
@@ -105,3 +105,23 @@ A keretek módosultak: **szóhatár 3500 → 4000**, **hivatkozási keret 80 →
 Mindegyik elhagyása a hozzá tartozó tagmondat törlésével vagy átfogalmazásával járt, nem a hivatkozás néma kivételével — így egyetlen állítás sem maradt forrás nélkül.
 
 **Ellenőrzés a harmadik kör után:** 40/40 tétel megfelelt mind a hét dimenzióban; a szövegben 81 hivatkozási hely, 40 idézett egyedi tétel, nincs holt hivatkozás és nincs jegyzékből hiányzó idézet. Törzsszöveg **3501 szó** (határ 4000), így mintegy 500 szó tartalék maradt.
+
+
+---
+
+## G. Szerzőlista és affiliációk
+
+A címoldal elkészült. Hét szerző, felső indexes intézmény-hozzárendeléssel, a szerzői útmutató formátuma szerint:
+
+**Dézsi Csilla**^1,2,3,4^ · **Gulyás-Oldal Viktor**^1,2^ · **Gálóczi Imre**^1,2^ · **Lábodi László**^4^ · **Marusin Ildikó**^4^ · **Szili Károly**^1,2,3,4^ · **Nagy Sándor**^1,2^
+
+1. Széchenyi István Egyetem, Szülészeti és Nőgyógyászati Tanszék, Győr
+2. Széchenyi István Egyetem, RGDI — *a teljes hivatalos név és a helységnév kiegészítendő*
+3. Szegedi Tudományegyetem, Szent-Györgyi Albert Orvostudományi Kar, Szülészeti és Nőgyógyászati Klinika, Szeged
+4. S.O.S. 24 Kft. – 48. Családorvosi Rendelő, Szeged
+
+Levelező szerző: **Szili Károly**.
+
+Az 1. és a 3. affiliációnál a hivatalos intézménynevet és a helységnevet kiegészítettük (Széchenyi **István** Egyetem, Győr; SZTE **Szent-Györgyi Albert Orvostudományi Kar**, Szeged), mert az útmutató a pontos hivatalos megnevezést és a helységnevet is kéri. A 2. affiliációt („SZE: RGDI") nem oldottuk fel, mert a rövidítés több doktori iskolára is illeszkedhet — ezt a szerzőknek kell megadniuk.
+
+**A címoldalon még hiányzó, a szerzőktől érkező adatok:** a „dr." megjelölés azoknál a szerzőknél, ahol indokolt; minden intézménynél az intézményvezető neve; a 2. affiliáció teljes neve és helységneve; a levelezési cím. Ezt a kézirat a címoldalon dőlt betűs megjegyzésben is jelzi.

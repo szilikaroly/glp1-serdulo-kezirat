@@ -122,22 +122,81 @@ doc = alap_dokumentum()
 oldalszam_fejlecbe(doc)
 
 # ============================================================ 1. CIMOLDAL
+SZERZOK = [
+    ("Dézsi Csilla",        "1,2,3,4"),
+    ("Gulyás-Oldal Viktor", "1,2"),
+    ("Gálóczi Imre",        "1,2"),
+    ("Lábodi László",       "4"),
+    ("Marusin Ildikó",      "4"),
+    ("Szili Károly",        "1,2,3,4"),
+    ("Nagy Sándor",         "1,2"),
+]
+AFFILIACIOK = [
+    ("1", "Széchenyi István Egyetem, Szülészeti és Nőgyógyászati Tanszék, Győr"),
+    ("2", "Széchenyi István Egyetem, RGDI [a doktori iskola teljes hivatalos nevét és "
+          "helységnevét kérjük kiegészíteni]"),
+    ("3", "Szegedi Tudományegyetem, Szent-Györgyi Albert Orvostudományi Kar, "
+          "Szülészeti és Nőgyógyászati Klinika, Szeged"),
+    ("4", "S.O.S. 24 Kft. – 48. Családorvosi Rendelő, Szeged"),
+]
+LEVELEZO = "Szili Károly"
+
+def szerzosor(doc, szerzok):
+    """Szerzonev + felso indexes affiliacio-szamok, vesszovel elvalasztva."""
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.paragraph_format.line_spacing = 1.5
+    for i, (nev, idx) in enumerate(szerzok):
+        r = p.add_run(nev)
+        r.bold = True
+        r.font.size = Pt(12)
+        r.font.name = "Times New Roman"
+        f = p.add_run(idx)
+        f.font.superscript = True
+        f.font.size = Pt(12)
+        f.font.name = "Times New Roman"
+        if i < len(szerzok) - 1:
+            v = p.add_run(", ")
+            v.font.size = Pt(12)
+            v.font.name = "Times New Roman"
+    return p
+
+def affiliacio_sor(doc, jel, szoveg):
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.paragraph_format.line_spacing = 1.2
+    p.paragraph_format.space_after = Pt(2)
+    f = p.add_run(jel)
+    f.font.superscript = True
+    f.font.size = Pt(11)
+    f.font.name = "Times New Roman"
+    r = p.add_run(" " + szoveg)
+    r.font.size = Pt(11)
+    r.font.name = "Times New Roman"
+    return p
+
 cim(doc, "Inkretin-alapú terápiák a gyermeknőgyógyászati praxisban: "
          "a GLP-1 receptor agonisták hatása a serdülőkori reproduktív axisra",
     meret=14, kozep=True, utana=12)
 bekezdes(doc, "**Alcím / rövid cím:** Inkretinek a serdülőkori reproduktív axison",
          igazit=WD_ALIGN_PARAGRAPH.CENTER)
 doc.add_paragraph()
-bekezdes(doc, "**Dr. Szili Károly**",
-         igazit=WD_ALIGN_PARAGRAPH.CENTER)
-bekezdes(doc, "Munkahely, pontos hivatalos megnevezés, helységnév, "
-              "intézményvezető neve: …………………………………… *(kitöltendő)*",
-         igazit=WD_ALIGN_PARAGRAPH.CENTER)
+
+szerzosor(doc, SZERZOK)
 doc.add_paragraph()
-bekezdes(doc, "**Kapcsolattartó (levelező) szerző:** Dr. Szili Károly · szilikaroly@gmail.com · levelezési cím: …………………………………… *(kitöltendő)*",
-         igazit=WD_ALIGN_PARAGRAPH.CENTER)
-bekezdes(doc, "(A kísérőlevélhez az első szerző fényképét is csatolni kell.)",
-         dolt=True, meret=10, igazit=WD_ALIGN_PARAGRAPH.CENTER)
+for _jel, _aff in AFFILIACIOK:          # NB: a ciklusvaltozo nem lehet 'szoveg',
+    affiliacio_sor(doc, _jel, _aff)     # mert modulszinten felulirna a kezirat szoveget
+doc.add_paragraph()
+
+bekezdes(doc, f"**Kapcsolattartó (levelező) szerző:** {LEVELEZO} · szilikaroly@gmail.com · "
+              "levelezési cím: …………………………………… *(kitöltendő)*",
+         meret=11, sorkoz=1.2, igazit=WD_ALIGN_PARAGRAPH.CENTER)
+doc.add_paragraph()
+bekezdes(doc, "A szerzői útmutató szerint még kiegészítendő: (a) a szerzők neve után a „dr.” "
+              "megjelölés ott, ahol ez indokolt; (b) minden intézménynél az intézményvezető neve; "
+              "(c) a 2. affiliáció teljes hivatalos megnevezése és helységneve; "
+              "(d) a levelezési cím. A kísérőlevélhez az első szerző fényképét is csatolni kell.",
+         dolt=True, meret=10, sorkoz=1.2, igazit=WD_ALIGN_PARAGRAPH.CENTER)
 uj_oldal(doc)
 
 # ============================================================ 2. OSSZEFOGLALAS

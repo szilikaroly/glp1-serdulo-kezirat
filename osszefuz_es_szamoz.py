@@ -46,7 +46,7 @@ vegleges = "\n".join([
     "## KÖSZÖNETNYILVÁNÍTÁS", "",
     "*(a szerző tölti ki)*", "",
     "## ÉRDEKELTSÉGEK, TÁMOGATÁSOK", "",
-    "A szerző(k)nek nincsenek érdekeltségei. A közlemény elkészítése külső támogatásban nem részesült.", "",
+    "A szerzőknek nincsenek érdekeltségei. A közlemény elkészítése külső támogatásban nem részesült.", "",
     "---", "",
     "\n".join(jegyzek).rstrip(), "",
     "---", "",
